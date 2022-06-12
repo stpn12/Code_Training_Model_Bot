@@ -2,7 +2,7 @@ import logging
 from aiogram import Bot, Dispatcher, executor, types
 import antifakesearcher
 
-bot = Bot(token="5546611834:AAHk7uxvrrJldzuxgVihvdnK6N77haKL6bY")
+bot = Bot(token="")
 # Диспетчер для бота
 dp = Dispatcher(bot)
 # Включаем логирование
